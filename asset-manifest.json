@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/akashsrvstv27/Tindal.git/static/css/main.0d66589e.chunk.css",
-    "main.js": "/akashsrvstv27/Tindal.git/static/js/main.582773af.chunk.js",
-    "main.js.map": "/akashsrvstv27/Tindal.git/static/js/main.582773af.chunk.js.map",
-    "runtime-main.js": "/akashsrvstv27/Tindal.git/static/js/runtime-main.50ae23c2.js",
-    "runtime-main.js.map": "/akashsrvstv27/Tindal.git/static/js/runtime-main.50ae23c2.js.map",
-    "static/js/2.135a6721.chunk.js": "/akashsrvstv27/Tindal.git/static/js/2.135a6721.chunk.js",
-    "static/js/2.135a6721.chunk.js.map": "/akashsrvstv27/Tindal.git/static/js/2.135a6721.chunk.js.map",
-    "static/js/3.d5f678da.chunk.js": "/akashsrvstv27/Tindal.git/static/js/3.d5f678da.chunk.js",
-    "static/js/3.d5f678da.chunk.js.map": "/akashsrvstv27/Tindal.git/static/js/3.d5f678da.chunk.js.map",
-    "index.html": "/akashsrvstv27/Tindal.git/index.html",
-    "static/css/main.0d66589e.chunk.css.map": "/akashsrvstv27/Tindal.git/static/css/main.0d66589e.chunk.css.map",
-    "static/js/2.135a6721.chunk.js.LICENSE.txt": "/akashsrvstv27/Tindal.git/static/js/2.135a6721.chunk.js.LICENSE.txt"
+    "main.css": "/akashsrvstv27/Tindal/tree/master/static/css/main.0d66589e.chunk.css",
+    "main.js": "/akashsrvstv27/Tindal/tree/master/static/js/main.582773af.chunk.js",
+    "main.js.map": "/akashsrvstv27/Tindal/tree/master/static/js/main.582773af.chunk.js.map",
+    "runtime-main.js": "/akashsrvstv27/Tindal/tree/master/static/js/runtime-main.d1103553.js",
+    "runtime-main.js.map": "/akashsrvstv27/Tindal/tree/master/static/js/runtime-main.d1103553.js.map",
+    "static/js/2.83d341ed.chunk.js": "/akashsrvstv27/Tindal/tree/master/static/js/2.83d341ed.chunk.js",
+    "static/js/2.83d341ed.chunk.js.map": "/akashsrvstv27/Tindal/tree/master/static/js/2.83d341ed.chunk.js.map",
+    "static/js/3.d5f678da.chunk.js": "/akashsrvstv27/Tindal/tree/master/static/js/3.d5f678da.chunk.js",
+    "static/js/3.d5f678da.chunk.js.map": "/akashsrvstv27/Tindal/tree/master/static/js/3.d5f678da.chunk.js.map",
+    "index.html": "/akashsrvstv27/Tindal/tree/master/index.html",
+    "static/css/main.0d66589e.chunk.css.map": "/akashsrvstv27/Tindal/tree/master/static/css/main.0d66589e.chunk.css.map",
+    "static/js/2.83d341ed.chunk.js.LICENSE.txt": "/akashsrvstv27/Tindal/tree/master/static/js/2.83d341ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.50ae23c2.js",
-    "static/js/2.135a6721.chunk.js",
+    "static/js/runtime-main.d1103553.js",
+    "static/js/2.83d341ed.chunk.js",
     "static/css/main.0d66589e.chunk.css",
     "static/js/main.582773af.chunk.js"
   ]
