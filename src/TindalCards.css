@@ -1,0 +1,51 @@
+.card{
+    position: relative;
+    width: 600px;
+    padding: 20px;
+    max-width: 80vw;
+    height: 50vh;
+    border-radius: 20px;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 10px 23px 0px rgba(255, 255, 255, 0.2);
+}
+
+
+
+.card > h3{
+    position: absolute;
+    bottom: 10px;
+    color: white;
+}
+
+
+
+.tindalCards__cardContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+}
+
+.swipe{
+    position: absolute;
+}
+
+.card > .button1{
+    position: absolute;
+    bottom: 10px;
+    right: 0vw;
+    
+}
+
+button{
+    background-color: #dd4e4e; 
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  cursor: pointer;
+  font-family:cursive;
+}

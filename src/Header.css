@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #f9f9f9;
+}
+
+.header__logo{
+    height: 90px;
+    margin-top: 5px;
+    object-fit: contain;
+    
+    
+    border-radius: 50%;
+}
+
+.header__icon{
+    padding: 20px;
+    color: rgb(99, 90, 91);
+}

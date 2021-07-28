@@ -1,0 +1,61 @@
+.img{
+    position: relative;
+    width: 110px;
+    padding: 20px;
+    max-width: 80vw;
+    height: 16vh;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 10px 23px 0px rgba(255, 255, 255, 0.2);
+}
+
+.profileIcon__Container{
+    display: flex;
+    justify-content: center;
+    margin-top: 1vh;
+    
+}
+
+.profile__Container{
+    display:flex;
+    justify-content:center;
+    margin-top: 1vh;
+    
+}
+
+.age__Container{
+    display:flex;
+    justify-content:center;
+    margin-top: 1vh;
+    
+}
+
+
+
+
+.Container{
+    background-color: rgb(238, 176, 214) !important;
+    
+}
+
+
+.card2{
+    position: relative;
+    width: 190px;
+    
+    
+    height: 25vh;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 0px 23px 0px rgba(151, 50, 50, 0.2);
+}
+
+
+.details__container{
+    margin-top: 3vh;
+    text-align: center;
+    
+}
+
